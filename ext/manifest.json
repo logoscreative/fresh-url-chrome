@@ -1,6 +1,6 @@
 {
   "name": "Fresh URL",
-  "version": "0.1",
+  "version": "0.1.1",
   "manifest_version": 2,
   "description": "Fresh URL removes the UTM codes from the URL after analytics providers record what they need.",
   "homepage_url": "http://wistia.com/blog/fresh-url",
