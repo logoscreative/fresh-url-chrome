@@ -2,7 +2,7 @@
   "name": "Fresh URL",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Fresh URL removes the UTM codes from the URL in a visitor's address bar when they land on your website, and it automatically coordinates with the analytics providers you're using to make sure they have access to the UTM data before it's cleaned.",
+  "description": "Fresh URL removes the UTM codes from the URL after analytics providers record what they need.",
   "homepage_url": "http://wistia.com/blog/fresh-url",
   "icons": {
     "16": "icons/icon16.png",
